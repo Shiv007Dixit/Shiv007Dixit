@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Shiv007Dixit
-- 👀 I’m interested in Docker/Kubernetes/Aure Red Hat Openshift
+- 👀 I’m interested in Docker/Kubernetes/Azure Red Hat Openshift
 - 🌱 I’m currently learning cloud technologies
 - 💞️ I’m looking to collaborate on cloud technologoies
 - 📫 Reach me @ shiv.dixit.bgp@gmail.com
